@@ -44,7 +44,6 @@ with st.container():
                 subregionmax = ("Subregion: " + i[4])
                 cummax = str(cekmax.iloc[0]['cumulative'])
                 st.success("Jumlah Produksi Terbesar Keseluruhan Tahun")
-                st.write("tes")
                 st.write(namamax, kodemax)
                 st.write(regionmax)
                 st.write(subregionmax)
