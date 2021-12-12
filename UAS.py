@@ -46,7 +46,7 @@ with st.container():
                 break
         st.success("Jumlah Produksi Terbesar Keseluruhan Tahun")
         st.write("tes")
-        st.write(namamax, kodemax)
+        st.write(namamax)
         st.write(regionmax)
         st.write(subregionmax)
         st.write("")
