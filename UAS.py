@@ -45,7 +45,7 @@ with st.container():
                 cummax = str(cekmax.iloc[0]['cumulative'])
                 break
         st.success("Jumlah Produksi Terbesar Keseluruhan Tahun")
-        st.write("###### Cumulative: " + cummax)
+        st.write("tes")
         st.write(namamax, kodemax)
         st.write(regionmax)
         st.write(subregionmax)
