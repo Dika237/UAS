@@ -25,7 +25,7 @@ batasbawahtahun = int(df.min(axis=0)['tahun'])
 batasatastahun = int(df.max(axis=0)['tahun'])
 
 # MAIN ALGORITHM
-st.title("""Data Global Produksi Minyak Mentah\nAplikasi penyedia informasi dan grafik""")
+st.title("""Data Global Produksi Minyak Mentah\nBy : TABAH ARDIKA Corp.""")
 
 # INFO KESELURUHAN
 st.header("Informasi")
